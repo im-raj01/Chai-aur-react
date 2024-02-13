@@ -1,0 +1,14 @@
+.copy-button {
+  background-color: #007bff; /* Blue background color */
+  color: #fff; /* White text color */
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition effect */
+
+  /* Hover state */
+  &:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+}
